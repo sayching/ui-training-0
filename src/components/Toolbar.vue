@@ -54,9 +54,7 @@
         font-size: 18px;
         line-height: 21.09px;
         line-height: 100%;
-        Align: Left;
-        Vertical-Align: center;
-        font-color: #000000;
+        
     }
 
     li a:hover:not(.active) {

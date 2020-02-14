@@ -64,8 +64,9 @@
 
     .footer-service-extend {
         float: left;
-        width: 25%;
+        width: 24%;
         color: #696969;
+        margin: 0px;
     }
     .footer-service-extend ul {
         list-style-type: none;
@@ -74,18 +75,22 @@
     .title {
         color: black;
         font-weight: bold;
+        text-align: justify;
     }
     .title2 {
         color: black;
         font-size: 24px;
+        text-align: justify;
     }
     .t_title {
         color: black;
         font-size: 24px;
         font-weight: bold;
+        text-align: justify;
     }
     li {
         margin-bottom: 10px;
+        
     }
 
     .footer {
@@ -94,8 +99,9 @@
     .center {
         margin: auto;
         width: auto;
-        padding: 10px;
+        /* padding: 10px; */
         margin: 0px 0px 10px;
+        text-align: justify;
     }
     .footer-service-extend1 {
         float: left;
