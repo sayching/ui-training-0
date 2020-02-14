@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Toolbar/>
+    <Hero/>
     <Social/>
     <Footer/> 
   </div>
@@ -9,6 +10,7 @@
 <script>
 
 import Toolbar from './components/Toolbar.vue';
+import Hero from './components/Hero.vue';
 import Social from './components/Social.vue';
 import Footer from './components/Footer.vue';
 
@@ -17,6 +19,7 @@ export default {
   name: 'App',
   components: {
     Toolbar,
+    Hero,
     Social,
     Footer,
   }
