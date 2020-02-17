@@ -3,6 +3,7 @@
     <Toolbar/>
     <Hero/>
     <Social/>
+    <CTA/>
     <Footer/> 
   </div>
 </template>
@@ -12,6 +13,7 @@
 import Toolbar from './components/Toolbar.vue';
 import Hero from './components/Hero.vue';
 import Social from './components/Social.vue';
+import CTA from './components/CTA.vue';
 import Footer from './components/Footer.vue';
 
 
@@ -21,6 +23,7 @@ export default {
     Toolbar,
     Hero,
     Social,
+    CTA,
     Footer,
   }
 }
