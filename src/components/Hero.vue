@@ -2,7 +2,8 @@
     <div class="hero">
             <div class="hero-extend">
                 <div class="content">
-                    <h2>Your Best Value Proposition</h2>
+                    <h2>Your Best Value<br>
+                    Proposition</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <p>Vestibulum consequat scelerisque elit sit amet consequat.</p>
                     <p>Aliquam erat volutpat. Aliquam venenatis gravida nisl sit</p>
