@@ -16,31 +16,29 @@
 
 <style scoped>
 .content {
-    width: 640px; /*can be in percentage also.*/
+    width: 640px; 
     height: auto;
     margin: 0 auto;
     padding: 110px;
     position: relative;
 }
 .cta .btn {
-        /* Positioning and sizing */
+
         display: block;
         width: 200px;
         
-        /* Padding and margins */
+
         padding: 1em;
         margin-top: 10px;
         margin-left: auto;
         margin-right: auto;
-        
-        /* Text styles */
-        color: white; /* CHANGE THIS LINE */
+
+        color: white; 
         text-decoration: none;
         font-size: 18px;
         background-color: black;
       
-        /* Border styles */
-        border: 1px solid black; /* CHANGE THIS LINE */
+        border: 1px solid black;
         border-radius: 10px;
     }
     .cta {
